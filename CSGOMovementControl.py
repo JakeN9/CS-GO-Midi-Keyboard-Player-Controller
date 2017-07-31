@@ -1,17 +1,16 @@
-###############################
+#############################################################################################
 # JakeN9's CS:GO movement control script.
-# This python script was created using the following
-
 # Demo: https://www.youtube.com/watch?v=CEt46F9jePY
-
 # Note: You'll need to turn off Raw Input in CS:GO if you have it enabled, as it messes with the control of the mouse.
 
-###############################
+# This python script was created using the following
 
 # 1 . https://github.com/Devking/PythonMIDISynth - A Python Synthesier written by Wells Lucas Santo, for the final project component of  EE4163 at the NYU Tandon School of Engineering.
 # 2 . http://pyautogui.readthedocs.io/en/latest/mouse.html - PyAutoGUI is a Python module for programmatically controlling the mouse and keyboard..
 # 3 . 2 cups of coffee
 # 4 . A ton of Google Searching
+
+#############################################################################################
 
 # Get a range of the frequencies for 120 keys, starting with the pitch C0
 # This mathematically works because there is a separation of 1.059463 per
